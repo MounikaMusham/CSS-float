@@ -28,6 +28,9 @@ p{
 #img{
     float: right;
 }
+#inherit{
+    float: inherit;
+}
 h2{
     text-align: center;
     color: blue;
