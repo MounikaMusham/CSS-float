@@ -1,0 +1,34 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(226, 235, 232);
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+    overflow: scroll;
+    border: 3px solid black;
+    display: inline-block;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 20px;
+}
+p{
+    padding: 10px;
+    text-align: justify;
+}
+.one{
+      margin-left: 200px;
+    
+
+}
+#img{
+    float: right;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
